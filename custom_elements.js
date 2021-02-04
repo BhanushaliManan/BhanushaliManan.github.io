@@ -95,3 +95,6 @@ class Footer extends HTMLElement {
         shadowRoot.appendChild(footerTemplate.content);
     }
 }
+
+customElements.define('my-footer', Footer);
+
