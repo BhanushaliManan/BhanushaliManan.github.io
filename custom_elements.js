@@ -3,7 +3,7 @@
 const headerTemplate = document.createElement('template');
 headerTemplate.innerHTML = `
 
-<link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+// <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
 <header class="text-gray-700 body-font">
 <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
   <a class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
@@ -41,7 +41,7 @@ customElements.define('my-header', Header);
 const footerTemplate = document.createElement('template');
 footerTemplate.innerHTML = `
 
-<link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+// <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
 
 <footer class="text-gray-500 bg-gray-900 body-font">
 <div class="container px-5 py-24 mx-auto flex md:items-center lg:items-start md:flex-row md:flex-no-wrap flex-wrap flex-col">
