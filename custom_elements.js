@@ -1,3 +1,5 @@
+// My Custom Header
+
 const headerTemplate = document.createElement('template');
 headerTemplate.innerHTML = `
 
