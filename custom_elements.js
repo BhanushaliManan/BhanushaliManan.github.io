@@ -11,9 +11,9 @@ headerTemplate.innerHTML = `
     <span class="ml-3 text-xl">Manan Bhanushali</span>
   </a>
   <nav class="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-400	flex flex-wrap items-center text-base justify-center">
-    <a href="" class="mr-5 hover:text-gray-900">Home</a>
-    <a href="/projects" class="mr-5 hover:text-gray-900">Projects</a>
-    <a href="/download" class="mr-5 hover:text-gray-900">Download</a>
+    <a href="https://mananbhanushali.github.io/" class="mr-5 hover:text-gray-900">Home</a>
+    <a href="https://mananbhanushali.github.io/projects" class="mr-5 hover:text-gray-900">Projects</a>
+    <a href="https://mananbhanushali.github.io/download" class="mr-5 hover:text-gray-900">Download</a>
   </nav>
 </div>
 </header>
