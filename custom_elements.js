@@ -77,6 +77,23 @@ footerTemplate.innerHTML = `
         <li>
           <a href="https://mananbhanushali.github.io/space-invaders" class="text-gray-600 hover:text-white">Space Invaders</a>
         </li>
+        <li>
+          <a href="https://mananbhanushali.github.io/PyBrowse" class="text-gray-600 hover:text-white">PyBrowse</a>
+        </li>
+      </nav>
+    </div>
+    <div class="lg:w-1/4 md:w-1/2 w-full px-4">
+      <h2 class="title-font font-medium text-white tracking-widest text-sm mb-3">CHEATSHEETS</h2>
+      <nav class="list-none mb-10">
+        <li>
+          <a href="https://mananbhanushali.github.io/cheatsheets/webdev/" class="text-gray-600 hover:text-white">Web Development</a>
+        </li>
+        <li>
+          <a href="https://mananbhanushali.github.io/cheatsheets/python" class="text-gray-600 hover:text-white">Python</a>
+        </li>
+        <li>
+          <a href="https://mananbhanushali.github.io/cheatsheets/git" class="text-gray-600 hover:text-white">Git</a>
+        </li>
       </nav>
     </div>
 </footer>
