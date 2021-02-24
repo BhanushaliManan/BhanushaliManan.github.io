@@ -69,7 +69,7 @@ footerTemplate.innerHTML = `
       </nav>
     </div>
     <div class="lg:w-1/4 md:w-1/2 w-full px-4">
-      <h2 class="title-font font-medium text-white tracking-widest text-sm mb-3">PROJECTS</h2>
+      <a href="https://mananbhanushali.github.io/projects"><h2 class="title-font font-medium text-white tracking-widest text-sm mb-3">PROJECTS</h2></a>
       <nav class="list-none mb-10">
         <li>
           <a href="https://mananbhanushali.github.io/pong-game" class="text-gray-600 hover:text-white">Pong Game</a>
@@ -83,7 +83,7 @@ footerTemplate.innerHTML = `
       </nav>
     </div>
     <div class="lg:w-1/4 md:w-1/2 w-full px-4">
-      <h2 class="title-font font-medium text-white tracking-widest text-sm mb-3">CHEATSHEETS</h2>
+      <a href="https://mananbhanushali.github.io/cheatsheets"><h2 class="title-font font-medium text-white tracking-widest text-sm mb-3">CHEATSHEETS</h2></a>
       <nav class="list-none mb-10">
         <li>
           <a href="https://mananbhanushali.github.io/cheatsheets/webdev/" class="text-gray-600 hover:text-white">Web Development</a>
