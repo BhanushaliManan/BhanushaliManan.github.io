@@ -13,9 +13,9 @@ headerTemplate.innerHTML = `
     <span class="ml-3 text-xl">Manan Bhanushali</span>
   </a>
   <nav class="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-400	flex flex-wrap items-center text-base justify-center">
-    <a href="https://mananbhanushali.github.io/" class="mr-5 hover:text-gray-900">Home</a>
-    <a href="https://mananbhanushali.github.io/projects" class="mr-5 hover:text-gray-900">Projects</a>
-    <a href="https://mananbhanushali.github.io/download" class="mr-5 hover:text-gray-900">Download</a>
+    <a href="https://bhanushalimanan.github.io/" class="mr-5 hover:text-gray-900">Home</a>
+    <a href="https://bhanushalimanan.github.io/projects" class="mr-5 hover:text-gray-900">Projects</a>
+    <a href="https://bhanushalimanan.github.io/download" class="mr-5 hover:text-gray-900">Download</a>
   </nav>
 </div>
 </header>
@@ -58,41 +58,41 @@ footerTemplate.innerHTML = `
       <a href=""><h2 class="title-font font-medium text-white tracking-widest text-sm mb-3">CATEGORIES</h2></a>
       <nav class="list-none mb-10">
         <li>
-            <a href="https://mananbhanushali.github.io/" class="text-gray-600 hover:text-white">Home</a>
+            <a href="https://bhanushalimanan.github.io/" class="text-gray-600 hover:text-white">Home</a>
           </li>
           <li>
-            <a href="https://mananbhanushali.github.io/projects"  class="text-gray-600 hover:text-white">Projects</a>
+            <a href="https://bhanushalimanan.github.io/projects"  class="text-gray-600 hover:text-white">Projects</a>
           </li>
           <li>
-            <a href="https://mananbhanushali.github.io/download" class="text-gray-600 hover:text-white">Download</a>
+            <a href="https://bhanushalimanan.github.io/download" class="text-gray-600 hover:text-white">Download</a>
           </li>
       </nav>
     </div>
     <div class="lg:w-1/4 md:w-1/2 w-full px-4">
-      <a href="https://mananbhanushali.github.io/projects"><h2 class="title-font font-medium text-white tracking-widest text-sm mb-3">PROJECTS</h2></a>
+      <a href="https://bhanushalimanan.github.io/projects"><h2 class="title-font font-medium text-white tracking-widest text-sm mb-3">PROJECTS</h2></a>
       <nav class="list-none mb-10">
         <li>
-          <a href="https://mananbhanushali.github.io/pong-game" class="text-gray-600 hover:text-white">Pong Game</a>
+          <a href="https://bhanushalimanan.github.io/pong-game" class="text-gray-600 hover:text-white">Pong Game</a>
         </li>
         <li>
-          <a href="https://mananbhanushali.github.io/space-invaders" class="text-gray-600 hover:text-white">Space Invaders</a>
+          <a href="https://bhanushalimanan.github.io/space-invaders" class="text-gray-600 hover:text-white">Space Invaders</a>
         </li>
         <li>
-          <a href="https://mananbhanushali.github.io/PyBrowse" class="text-gray-600 hover:text-white">PyBrowse</a>
+          <a href="https://bhanushalimanan.github.io/PyBrowse" class="text-gray-600 hover:text-white">PyBrowse</a>
         </li>
       </nav>
     </div>
     <div class="lg:w-1/4 md:w-1/2 w-full px-4">
-      <a href="https://mananbhanushali.github.io/cheatsheets"><h2 class="title-font font-medium text-white tracking-widest text-sm mb-3">CHEATSHEETS</h2></a>
+      <a href="https://bhanushalimanan.github.io/cheatsheets"><h2 class="title-font font-medium text-white tracking-widest text-sm mb-3">CHEATSHEETS</h2></a>
       <nav class="list-none mb-10">
         <li>
-          <a href="https://mananbhanushali.github.io/cheatsheets/webdev/" class="text-gray-600 hover:text-white">Web Development</a>
+          <a href="https://bhanushalimanan.github.io/cheatsheets/webdev/" class="text-gray-600 hover:text-white">Web Development</a>
         </li>
         <li>
-          <a href="https://mananbhanushali.github.io/cheatsheets/python" class="text-gray-600 hover:text-white">Python</a>
+          <a href="https://bhanushalimanan.github.io/cheatsheets/python" class="text-gray-600 hover:text-white">Python</a>
         </li>
         <li>
-          <a href="https://mananbhanushali.github.io/cheatsheets/git" class="text-gray-600 hover:text-white">Git</a>
+          <a href="https://bhanushalimanan.github.io/cheatsheets/git" class="text-gray-600 hover:text-white">Git</a>
         </li>
       </nav>
     </div>
