@@ -1,1 +1,1 @@
-# MananBhanushali.github.io - Manan Bhanushali's Portfolio Website
+# BhanushaliManan.github.io - Manan Bhanushali's Portfolio Website
